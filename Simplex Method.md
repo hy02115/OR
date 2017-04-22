@@ -1,4 +1,5 @@
 
 The standard form of simplex method:  
 
-maximize $c$
+maximize $ \sum_{\forall i}{x_i^{2}} $
+
